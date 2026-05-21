@@ -1,0 +1,2 @@
+test_name,metric,method_a,method_b,statistic,p_value,significant_at_0_05,ga_mean,ga_std,random_mean,random_std
+Mann-Whitney U,f1,GA,Random Subset,595.0,0.015047684140561539,True,0.9646792848827397,0.008325543250210503,0.9596380113182389,0.009986990620456543

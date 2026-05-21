@@ -1,0 +1,4 @@
+method,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std,roc_auc_mean,roc_auc_std,selected_feature_count_mean,selected_feature_count_std,runtime_seconds_mean,runtime_seconds_std
+GA,0.955263,0.010392,0.961427,0.008158,0.968056,0.013227,0.964679,0.008326,0.992455,0.002082,11.366667,2.965123,35.534667,10.961859
+Random Subset,0.949123,0.012276,0.960196,0.00764,0.959259,0.017844,0.959638,0.009987,0.98858,0.005349,11.366667,2.965123,0.119445,0.006955
+All Features,0.95614,0.0,0.958904,0.0,0.972222,0.0,0.965517,0.0,0.993717,0.0,30.0,0.0,,
